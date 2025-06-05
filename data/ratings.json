@@ -1,0 +1,102 @@
+[ 
+    {
+    "id": "node/1371016839", 
+    "name": "Liebelei",
+    "rating": 2,
+    "note": "Really, really good. But the waitor (owner?) touches women unprompted."
+    },
+    {
+    "id": "node/11992212277", 
+    "name": "Café El'risa",
+    "rating": 4,
+    "note": "Just very cute. Removed my shoes. :) ~ Johannes"
+    },
+    {
+    "id": "node/11556502434", 
+    "name": "MoMo",
+    "rating": 4,
+    "note": "Extremely nice because it is part of a big bookstore. ~ Johannes"
+    },
+    {
+    "id": "node/617233080", 
+    "name": "Hokuspokus",
+    "rating": 3,
+    "note": "Coinflip. Depends on your server. I work there. ~ Johannes",
+    "diet": "vegan"
+    },
+    {
+    "id": "node/760484450", 
+    "name": "Maria von Burgund",
+    "rating": 2,
+    "note": "Watery cappuchino??? ~ Mens"
+    },
+    {
+    "id": "node/1656529338", 
+    "name": "Brennpunkt",
+    "rating": 5,
+    "note": "Multitude of selfrosted beanz. They let you choose your beanz. ~ Mens"
+    },
+        {
+    "id": "node/4757530222", 
+    "name": "Haepinest",
+    "rating": 5,
+    "note": "Best coffee BEANZ. I buy these. I feast these. I live by these. ~ Johannes",
+    "diet": "vegan"
+    },
+    {
+    "id": "node/2693523859", 
+    "name": "Mitbringsel",
+    "rating": 4,
+    "note": "Okayish coffee. Very cute interiour. Nice workers."
+    },
+        {
+    "id": "node/1678153193", 
+    "name": "Tomaselli",
+    "rating": 3,
+    "note": "Kinda bad coffee, creat atmosphere. Would go there to draw old people again. ~ Johannes"
+    },
+    {
+    "id": "node/9969751618", 
+    "name": "Ratio Coffee",
+    "rating": 5,
+    "note": "Swan as Latte Art. This is crazy. ~ Johannes"
+    },
+            {
+    "id": "node/12454180701", 
+    "name": "MA MAKERS",
+    "rating": 5,
+    "note": "Best cheesecake there is. ~ Johannes"
+  },
+            {
+    "id": "node/5676920486", 
+    "name": "Schönwetter",
+    "rating": 4,
+    "note": "Insanely amazing. Never open tho. Would be 5/5 if it was open ever. I was cockblocked too often by them."
+  },
+       {
+    "id": "node/1650949386", 
+    "name": "Kaffee Alchemie",
+    "rating": 4,
+    "note": "Gut aber unbequem ~ Pascal"
+  },
+  {
+    "id": "node/11597578532", 
+    "name": "Bäcker Ruetz - Innpark Kufstein",
+    "rating": 4,
+    "note": "Surprisingly nice to sit in."
+  },
+  {
+    "id": "node/595350818", 
+    "name": "Katzung",
+    "rating": 2,
+    "note": "I have an irrational hate for this place. WHY would you serve coffee with orange liquer??? Anyway name is cute so 2 Stars."
+  },
+  {
+    "id": "node/9568394154", 
+    "name": "Baltram",
+    "rating": 5,
+    "note": "So sexy. Best tiny cakes in Salzburg. Best tiny cakes probably anywhere.",
+    "diet": "vegan"
+  }
+]
+
