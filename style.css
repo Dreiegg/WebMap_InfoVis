@@ -84,7 +84,7 @@ strong, b, label, .filter-description {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  margin-bottom: 20px;
+  margin-top: 30px;
   justify-content: flex-start;
   align-items: stretch;
   text-align: left;
