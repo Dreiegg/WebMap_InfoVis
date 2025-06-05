@@ -1,7 +1,7 @@
 
 # Café Map of Tirol and Salzburg
 
-This map is a fun, personal project—a kind of digital notebook where I keep track of cafes I’ve visited with friends. I’ve added some light design to match my portfolio site so it fits in visually, but the main focus is just having a space to look back at where we’ve been.
+This map is a fun, personal project, a kind of digital notebook where I keep track of cafes I’ve visited with friends. I’ve added some light design to match my portfolio site so it fits in visually, but the main focus is just having a space to look back at where we’ve been.
 
 ### Data Sources
 - GeoJSON data is sourced from OpenStreetMap, using a custom query I listed at the end of this document.
