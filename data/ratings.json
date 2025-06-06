@@ -1,4 +1,41 @@
 [ 
+         
+  {
+    "id": "node/1286581488", 
+    "name": "Hauber",
+    "rating": 2,
+    "note": "Everything is organic and they have many gluten-free options that don't taste like cardboard. Coffee and pastry portions are very small for the steep price. And saldy not that good."
+    },  
+{
+    "id": "node/6780347184", 
+    "name": "Le Crobag HBF",
+    "rating": 4,
+    "note": "Very expensive. But the pastries are very good, seldom find better ones. There is almost no place to sit. Great for Takeaway"
+    },
+{
+    "id": "node/2367705830", 
+    "name": "Anker HBF",
+    "rating": 5,
+    "note": "Averagely good coffee, nice to sit. They have great food options with a big recommendation for their asian takeaway and the pizza slices, which is amazing."
+    },
+{
+    "id": "node/3444271245", 
+    "name": "Backwerk",
+    "rating": 3,
+    "note": "Very affordable, has nice seasonal specials. Coffee is kinda bad, but all food is amazing."
+    },
+        {
+    "id": "node/2451423985", 
+    "name": "Lorenzoni",
+    "rating": 4,
+    "note": "Good cakes, relatively nice staff, it is a bit big and therefore uncomfortable."
+    },
+      {
+    "id": "way/198736711", 
+    "name": "Koller",
+    "rating": 5,
+    "note": "I am biased here for reasons. But 5/5"
+    },
     {
     "id": "node/1371016839", 
     "name": "Liebelei",
