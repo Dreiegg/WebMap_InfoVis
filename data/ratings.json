@@ -1,9 +1,21 @@
 [ 
+{
+    "id": "node/1442060144", 
+    "name": "Moccador",
+    "rating": 1,
+    "note": "Former smoker spot and the furniture hasn't recovered. Haven't been there in years, because they completely ignored young looking people, at it's peak making me wait 30 minutes until even greeted."
+    },
     {
+    "id": "node/1364732965", 
+    "name": "Inners",
+    "rating": 3,
+    "note": "Not really a café, more a bar. But if there is space, it is very nice to sit."
+    },      
+{
     "id": "node/2316914795", 
     "name": "The Heart of Joy",
     "rating": 1,
-    "note": "We weren't served for 15 minutes and had to listen to a guy composing flute music on the spot (therefore playing strange melodies)"
+    "note": "We weren't served for 15 minutes and had to listen to a guy composing flute music on the spot (therefore playing VERY strange melodies)"
     },  
   {
     "id": "node/1286581488", 
@@ -21,7 +33,7 @@
     "id": "node/2367705830", 
     "name": "Anker HBF",
     "rating": 5,
-    "note": "Averagely good coffee, nice to sit. They have great food options with a big recommendation for their asian takeaway and the pizza slices, which is amazing."
+    "note": "Averagely good coffee, nice to sit. They have great food options with a big recommendation for their asian takeaway and the pizza slices, which are amazing."
     },
 {
     "id": "node/3444271245", 
@@ -76,7 +88,7 @@
     "id": "node/1656529338", 
     "name": "Brennpunkt",
     "rating": 5,
-    "note": "Multitude of selfrosted beanz. They let you choose your beanz. ~ Mens"
+    "note": "Multitude of selfroasted beanz. They let you choose your beanz. ~ Mens"
     },
         {
     "id": "node/4757530222", 
