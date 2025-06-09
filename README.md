@@ -3,6 +3,8 @@
 
 This map is a fun, personal project, a kind of digital notebook where I keep track of cafés I’ve visited with friends. I’ve added some light design to match my portfolio site so it fits in visually, but the main focus is just having a space to look back at where we’ve been.
 
+> View the map @ https://dreiegg.github.io/WebMap_InfoVis/
+
 ## Base Info
 ### Title: 
 Toni's Café Guide
@@ -263,7 +265,7 @@ function applyRatingOverrides() {
 }
 ```
 
-#### and some more stuff
+#### additional notes
 There are a lot of things that I also added, such as the legend, but these are neither interestingly implemented nor can I remember everything I did and why. I covered the majority here but I am writing this methodology after a 1am coding session.
 
 
